@@ -1,0 +1,30 @@
+
+# STM32CubeIDE build outputs
+Debug/
+Release/
+build/
+
+# Compiled files
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.list
+*.su
+
+# Local debug configurations
+*.launch
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+*.swp
+
+# Operating system files
+Thumbs.db
+.DS_Store
+# Local STM32CubeIDE / Eclipse preferences
+.settings/
